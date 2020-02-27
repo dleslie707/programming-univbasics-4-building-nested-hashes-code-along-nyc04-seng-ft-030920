@@ -25,6 +25,6 @@ def bonus
   epic_tragedy
 end
 
-p epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
+p bonus = epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
 
 
